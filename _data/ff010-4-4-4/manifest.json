@@ -23,6 +23,14 @@
         "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3599,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+        ],
         "items": [
           {
             "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/paintings",
