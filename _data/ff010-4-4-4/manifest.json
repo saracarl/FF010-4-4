@@ -27,12 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas/environment.json",
-            "label": "Environment"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas/speaker.json",
             "label": "Speaker"
           }
