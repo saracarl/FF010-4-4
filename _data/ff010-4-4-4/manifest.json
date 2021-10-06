@@ -33,6 +33,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas/context.json",
+            "label": "Context"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://Stevenholloway.github.io/FF010-4-4/ff010-4-4-4/canvas-1/canvas/speaker.json",
             "label": "Speaker"
           }
